@@ -1,1 +1,1 @@
-# HR_analyst_powerBI_Dashboard
+# HR_Analyst_PowerBI_Dashboard
